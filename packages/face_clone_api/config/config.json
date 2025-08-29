@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "rootpass",
+    "database": "face_clone",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
