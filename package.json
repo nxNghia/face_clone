@@ -7,6 +7,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "dev:api": "cd packages/face_clone_api && npm run dev"
+    "dev:api": "cd packages/face_clone_api && npm run dev",
+    "dev:console": "cd packages/face_clone_console && npm run dev"
   }
 }
